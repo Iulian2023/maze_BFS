@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^22.8.4"
+  },
+  "name": "maze_bfs",
+  "version": "1.0.0",
+  "description": "This project implements a pathfinding algorithm to determine the shortest path between a start point (`S`) and an endpoint (`E`) in a custom map. The map is represented as a string, where specific symbols denote different types of terrain.",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
